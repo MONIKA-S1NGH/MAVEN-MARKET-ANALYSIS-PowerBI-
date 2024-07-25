@@ -1,7 +1,15 @@
  MAVEN-MARKET-ANALYSIS-Project with PowerBI-
  
-Overview
-This project leverages Power BI for analyzing Maven market data to derive insights that drive organizational growth and strategy.
+Maven Market is a multi-national grocery chain with locations in Canada, Mexico and the United States. You have to perform the task of connecting and shaping the source data, building a relational model, adding calculated columns and measures, and designing a report using different visuals. Refer to the following files in the MavenMarket_dataset folder on Teams:
+
+MavenMarket_Calendar.csv
+MavenMarket_Customers.csv
+MavenMarket_Products.csv
+MavenMarket_Regions.csv
+MavenMarket_Returns_1997-1998.csv
+MavenMarket_Stores.csv
+MavenMarket_Transactions_1997.csv
+MavenMarket_Transactions_1998.csv
 
 Process
 
@@ -41,3 +49,6 @@ Summarize the significant insights and findings that emerged from your analysis 
 Identified a correlation between promotional campaigns and sales spikes, suggesting effective marketing strategies.
 Discovered geographic trends in customer preferences, guiding localized marketing efforts.
 Conclude with a brief summary of the project's impact and potential future directions for analysis or improvements.
+
+
+
