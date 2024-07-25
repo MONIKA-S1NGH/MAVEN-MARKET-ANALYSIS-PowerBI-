@@ -43,12 +43,17 @@ Describe the process of creating interactive dashboards in Power BI to visualize
 Developed a comprehensive sales dashboard with interactive charts showing trends over time.
 Designed a customer analytics dashboard showcasing demographic insights and purchase patterns.
 
-9. Insights and Findings
+![image](https://github.com/user-attachments/assets/789ba6fe-da7b-4248-b76d-9e2fd4f9ddfd)
+![image](https://github.com/user-attachments/assets/eced1c8b-5c78-44a1-8bef-3281e47561ab)
+![image](https://github.com/user-attachments/assets/c778e4c5-a817-421f-9425-adf9134149b8)
+![image](https://github.com/user-attachments/assets/748bf97b-30aa-423c-89f2-d96aff193dff)
+![image](https://github.com/user-attachments/assets/af120901-2a34-4d45-8302-1ced3cdc0c73)
+
+
+
+
     
-Summarize the significant insights and findings that emerged from your analysis using Power BI. Explain how these insights can impact business decisions and contribute to organizational growth. For instance:
-Identified a correlation between promotional campaigns and sales spikes, suggesting effective marketing strategies.
-Discovered geographic trends in customer preferences, guiding localized marketing efforts.
-Conclude with a brief summary of the project's impact and potential future directions for analysis or improvements.
+
 
 
 
